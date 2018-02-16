@@ -1,0 +1,102 @@
+The International Institute of Information Technology, a Deemed University, popularly known as IIIT-B, was established in 1999 with a vision to contribute to the IT world by focusing on education and research, entrepreneurship and innovation. The Institute is a registered not-for-profit society funded jointly by the Government of Karnataka and the IT industry.
+
+Since its inception, IIIT-B, with its unique model of education, research, and industry interaction, has grown in stature to become an institution of considerable repute in academic as well as corporate circles. The Institute works in partnership with the corporate sector, while retaining the freedom of an academic institution. It is inspired by other renowned institutions, and also strives to emulate an academic culture that is on par with the best international institutions.
+
+To build on the track record set by India in general and Bangalore in particular, to enable India to play a key role in the global IT scenario through a world class institute with a focus on education and research, entrepreneurship and innovation.
+
+The graduate programs at IIIT-B are among the best in the country, offering training oriented towards producing highly qualified practitioners and researchers. As an independent institution and a deemed university, IIIT-B collaborates with the IT industry, leading academic institutions abroad, and eminent scientists and industry leaders to offer students the best possible education. Our students have been well received by industry, and have been placed with some of the leading companies in the field; in fact, IIIT-B can boast of 100% placement for all its graduates.
+
+Students are encouraged to ask questions, pursue their research interests, and gain membership and respect in the select club of high-achieving IT professionals. The infrastructure and interactions that IIIT-B offers students and faculty makes possible the pursuit of individual and joint projects, industry-sponsored research, and study that is of the highest standards required for global competitiveness.
+
+The Institute has a relaxed, friendly atmosphere, but with a constant buzz of excitement due to many well-known visitors including giants from industry, well-known scientists, and leaders of government from all over the world.
+
+Admission is selective but not restrictive. We are very proud of the achievements of our alumni, and strive to gain good students who will achieve their potential and continue this trend. We thus warmly welcome applicants from different backgrounds who share our vision of excellence.
+
+At IIITB, we follow the notion of research labs and centers which is an abstraction of a particular theme/area. A research lab encompasses people, projects, physical facilities, and activities. A research center or a center of excellence is an abstraction either in terms of the broader set of research themes being followed or in terms of hierarchy of research activities.
+
+If Computer Science is about the use of computational techniques and thinking for solving problems, it stands to reason that computer science in turn can and must be applied to address the many critical problems of the 21st century, of which we may mention the need for smart machines and complex systems that can work with humans seamlessly and improve society as a whole, and sustainable development and usage of systems to make effective use of scarce and expensive resources such as energy. The tools and paradigms used to address such problems can themselves be new ones, other than merely the ones traditionally found in the repertoire of computer scientists. To this end, our work in the computer science research domain covers diverse topics dealing with theory as well as application areas, such as smart grids, supply chains and their optimization, algorithms, machine learning, cloud computing, dynamic modeling and control of servers, and renewable energy. With the tremendous rise in distributed computing applications, the issue of security and privacy in distributed applications has got tremendous attention from the research community in the past decade. A major theme of the cryptographic research at IIITB is secure distributed computing, with emphasis on secure multi-party computation (MPC) and verifiable computation, both at the theoretical as well as applied level. While we strive to be rigorous and thorough in all our research, whether theoretical or applied, we are also aware of the multidisciplinary context and significance of our work, and strive to address issues that are relevant to society in general and industry in particular. The focus of work in Computational Topology at IIITB is towards using topological methods for improving visual representation and information extraction from scientific datasets. Computational Sciences Laboratory Faculty Members Prof. Amit Chattopadhyay Prof. Ashish Choudhury Prof. Meenakshi D’Souza Prof. V. N. Muralidhara Prof. Pradeesha Ashok Prof. G. N. S. Prasanna Prof. Sachit Rao Prof. Shrisha Rao Prof. G. Srinivasaraghavan
+
+CSL at IIIT-B is interested broadly in the areas of Algorithms, Optimization, and Robotics. Major focus areas include: Robust optimization under uncertainty, with applications to supply chains, real time search, banking, smart grid, transportation, gaming and allied areas. This work couples algorithms with information theory. Approximation algorithms, machine learning, cryptography and linguistics. Novel robot skeletons using generalized mechanisms, incorporating magnetics distributed throughout. Algebraic number theory. Electronic design automation including statistical timing analysis and optimization for digital circuits, power analysis and optimization and formal verification, semiconductor manufacturing, statistical optimization, combinatorial optimization, and design and analysis of algorithms. Visualization (scientific and information), high-performance computing, computational geometry and topology. Others, such as, various aspects of power line communication for AMR over low voltage power lines, which include channel modeling, transceiver design and MAC layer design.
+
+The Data Sciences research domain focuses on all aspects of data management, processing, modeling, and information retrieval. The current areas of interest include:
+Database Design, Information Retrieval, Network Analysis, Mining Latent Semantics, Data Mining and Data Warehousing, Knowledge Representatio and Reasoning, Linked Data and Semantic Web, NoSQL Databases, Stream Data Management, Multimedia Management using Control Theory, Analytics, Graphics & Visualization, and GPU Computing, Applied Machine Learning, Computational Social Sciences, Computational Topology.
+
+    Center for Data Sciences
+    The Center for Data Sciences is a formal conglomeration of all the labs under the Data Sciences research domain, which takes care of overall activities at a higher hierarchical level of operation. This involves pooling in resources, conducting biannual student workshops, etc.
+
+    Document Engineering Lab (Prof. Chandrashekar Ramanathan)
+    Documents still constitute a significant content type in the enterprise today. Document Engineering deals with developing algorithms, techniques, tools and processes that help in creating and manipulating the content, format, and representation of documents. There are several challenges being addressed as part of Document Engineering. The DocEng lab explores the various standards and tools available in this space. Following are some of the projects from the Lab:
+
+        Pralekhasaara (for interactive content chunking and assembling)
+        ORCA (Online Repository for Content Assembly)
+        DocuBhasha (translation of documents, supported by Microsoft Research)
+
+    Graphics-Computing-Visualization Laboratory (Prof. Jaya Sreevalsan Nair)
+    The Graphics-Computing-Visualization Laboratory (GVCL) at IIIT Bangalore works in the broad areas of graphics, visualization, and scientific computing. The GVCL is currently involved in projects related to three-dimensional visualization of LiDAR data, analytics work-flow visualization, small-world-network visualization, volume visualization, and GPU computing. The lab is funded by various projects from government agencies and the industry, namely, DST, Nvidia and EMC.
+
+    Information Convergence Lab (Prof. Chandrashekar Ramanathan)
+    The revolution of mobile phones made media convergence possible. Today we don't need separate devices for talking on the phone, listening to music, watching videos, surfing the Internet, reading/sending e-mails. Information convergence is a similar concept that is focused on interoperability of information scattered across multiple dimensions and multiple sources and destinations. The focus of the Information Convergence Lab (I-COG Lab) is to first identify and define various information convergence challenges that are relevant to the real world. The current focus of the lab is to start with a study of information convergence challenges specifically targeted at large enterprises and the government. Based on this understanding of the needs and contexts of information convergence, the lab will specify reusable frameworks that address these challenges in a unified and integrated environment. The focus would be to develop standards-based solutions that can be applied widely.
+
+    Multimodal Perception Lab (Prof. Dinesh Babu Jayagopi)
+    The Multimodal Perception lab focuses on human-centered sensing and multimodal signal processing methods to observe, measure, and model human behavior. These methods are used in applications that facilitate behavioral training, and social media analysis; and enable human-robot interactions (HRI). The focus is mainly on vision and audio modalities. Probabilistic graphical models form the backbone of the underlying formalism.
+
+    Web Sciences Lab (Prof. Srinath Srinivasa)
+    The Web Sciences Lab (WSL) at IIIT-B is focused on understanding the web in all its aspects. Reasearch interests of the WSL include enabling technologies for the web, web-scale data management, web mining, network analysis and socio-cognitive models of web dynamics.
+
+The Electronic Systems Design domain encompasses a broad range of topics covering several aspects of both, digital and analog hardware systems, implemented using FPGAs and custom fabricated VLSI circuits, design methodologies around EDA flows, verification and validation, and system prototyping; realization of real time embedded systems where both the hardware and the software components are treated agnostically based on end system requirements; embedded implementation of feedback control using variegated sensors. Emphasis is also placed on emerging technologies based on Micro and Nano-electro mechanical devices – fabrication of 2D/3D structures, characterization and system applications. Topics of active research may be summarized as Model Based Hardware-Software Co-Synthesis of Reconfigurable Embedded Systems; Electronic Design Automation, especially timing optimization; CNT modelling for 3D integrated circuits; Wideband
+
+Two laboratories support the above research work:
+
+    High Density Electronics System (HIDES) Lab
+
+    The lab is used extensively to carry out high-end research as well as to support undergraduate and post-graduate teaching.
+
+    The lab has Intel and Arduino controller boards; an ABB commercial robot; a Firebird V robotic kit; Agilent Parametric Analyzer; Cascode DC Probe station; Carl Zeiss High resolution optical microscope; Makerbot 3D Printer; Wet lab for wet etching, copper plating, and dip soldering; Thermal and Electron beam evaporator; and high end oscilloscopes, function generators and power supplies.
+
+    The lab also has a variety of software suites, including: IC nanometer Design suite, VLSI Design, Verification and Test suite, PCB Expedition suite and Mechanical Analysis suite from Mentor Graphics; Cadence VLSI Design suite, Ansys HFSS, National Instruments Multisim, etc.
+    Center for Electronics and Embedded Systems (CEEMS) Lab
+
+    The CEEMS Lab is a multi-disciplinary lab that supports research and education in Embedded hardware and computing, wireless communication and computer vision.
+
+    Facilities in the lab include spectrum analyzer, signal analyzer, vector signal generator, controller, processor and sensor boards; and softwares including Code Composer Studio, Real View Development Suite, National Instrument Labview, Lego Mindstroms Education Nxt software, 3S Device Management Software, Xilinx 13.0, etc and CEEMS lab is funded by the Government of Karnataka.
+
+The Information Technology and Society research domain at IIITB is broadly concerned with the social role of information and communications technologies (ICTs) with a focus on the policy challenges and the institutional demands posed by technological change. Teaching and research in the stream focuses on three inter-related areas. First, it seeks to understand innovation and the organization of production in the ICT industry, or how, why and where ICTs are produced. A second area of interest is in how ICTs can be used to harness the legitimacy and the powers of bureaucracies and markets to address needs in different social domains. Of special interest are the domains of governance, education, health and manufacturing. A third area is the tools and analytical techniques that can be deployed to understand the production and consumption of ICTs. These include geographical information systems, modeling, simulation and visualization. The domain encourages inter-disciplinary research and has associated faculty members with expertise in social sciences, including in economics, economic geography, sociology, development, management, governance and public administration.
+
+    Center for Information Technology and Public Policy
+
+    The Center for Information Technology and Public Policy (CITAPP) at IIITB focuses on the policy challenges and the organizational demands made by technological innovation. The Center is interested in interactions between technology and society and is particularly concerned with how technological advances, along with institutional changes, address the needs of under-served communities. It seeks to provide a means to nurture and transform public policy through the use of IT by engaging with academic faculty and researchers, policy planners, political leaders and community representatives, technology vendors, public officials and civil society organizations. The Center brings together best-practices demonstrating the power of IT and analytical tools for information management, modelling, and forecasting. It engages in research and evaluation studies of topics where IT and public interest intersect.
+
+The research at IIITB in Chemistry, Mathematics and Physics are given here.
+
+In CHEMISTRY, the research at IIITB primarily is in the area of electronic structure calculations. Particularly, weak interactions (pi-pi, CH-pi etc.) present in various systems (small model systems, protein-ligand systems, DNA bases, nanotubes etc.) are investigated using quantum chemical methods (HF, MP2, CCSD(T) & DFT). Additionally, the work entails unravelling the role of such weak interactions in the field of drug-design, polymers, nano-devices and in new materials. Some of the recent research works show that pi-pi and CH-pi interactions are invariably present in the crystal structures of bio-molecules and play important role in their structure as well as functions.
+
+The Networking, Communication and Signal Processing research domain focuses on all aspects of networking, communications, and signal processing. The current topics of interest are: Computer networks, Network security, Wireless communication, Signal processing, Medical signal processing, Computer vision, Control of unmanned systems using image processing and computer vision.
+
+    Networking and Communication Lab (NCL) (Prof. Debabrata Das)
+
+    NCL's main focus of research areas are Medium Access Control (MAC) protocols for broadband wireless network, IoT (in particular, Energy saving of 4G-A, 5G, QoS), Cognitive Radio, Transport Layer Security, SDN in Access Network. This Lab has received R&D projects from Hewlett Packard, Motorola Research, Intel, Microsoft, Tata Power SED, Honeywell, Nokia and Cognizant. It has also received multiple R&D project from Department of Electronics and Information Technology (DeitY), Govt. of India. For detail please click on NCL name above.
+    Mobile Computing and IMS Innovation Lab (Prof. Debabrata Das)
+
+    In this lab the projects are sponsored by HP and Nokia. The R&D focus on video and audio streaming including handheld devices, as also Video Media Platform, Charging , Service Delivery in IMS using Application Servers, XDMS, HSS and Presence servers. Moreover, this lab addresses issues related to quality of service modeling in IMS architecture with respect to differential traffic.
+    Multimodal Perception Lab (Prof. Dinesh Babu Jayagopi)
+
+    The Multimodal Perception lab focuses on human-centered sensing and multimodal signal processing methods to observe, measure, and model human behavior. Theae methods are used in applications that facilitate behavioral training, and social media analysis; and enable human-robot interactions (HRI). The focus is mainly on vision and audio modalities. Probabilistic graphical models from the backbone of the underlying formalism.
+    Wireless Sensor Network (WSN) Lab (Prof. Jyotsna Bapat)
+
+    Machine to machine (M2M) communication is going to be one of the major areas of R&D in networking and communication specialization. M2M faces multiple challenges and some of the major issues related to efficient communication between sensors, protocols, power saving in sensor, etc. In IIITB we have a WSN lab which supports multiple R&D projects on sensor networks. This lab has been sponsored by Govt. of Karnataka for development in embedded systems.
+
+Software engineering (SE) brings together interesting avenues of both fundamental and applied research contributing to the broad spectrum of activities involved in the creation of large, complex, industrial strength software systems having high quality, dependability and within reasonable resources. The current research covers a wide variety of areas ranging from empirical to formal aspects of SE. At IIITB, the research in SE covers both upstream (requirement and design) and downstream (testing and maintenance) SDLC activities cutting across a variety of application domains (enterprise, embedded etc). Here is a list of some of the broad areas in which our faculty members are working: Pattern oriented software engineering, software architecture, distributed software engineering, model driven software engineering (MDSE), software testing, verification and validation (V&V) of web-services and V&V of embedded software (cyber-physical systems and adaptive systems) among others.
+
+    Software Design Laboratory (Prof. K. V. Dinesha)
+
+    The research focus here is on the design and architecture of software. Design patterns approach for the software development process is studied, with special emphasis on the impacts of design principals and patterns on the flexibility as one of the prime focus.
+    Software Engineering Laboratory (Profs. Meenakshi D' Souza, Sujit Kumar Chakrabarti, S. Ramesh (adjunct faculty member))
+
+    Primary research focus of SE lab at IIITB is on formal aspects of software engineering. Current projects that we are working on involve :
+        architecture analysis, testing, verification and program analysis for embedded software,
+        verification and validation of web software, and
+        software testing.
+
+    The aim of the lab is to expand the scope to include all aspects of software engineering, from requirements and design to testing and verification. Software specification and programming languages are two areas under consideration for exploring.
+
+
